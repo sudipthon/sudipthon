@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">I'm passionate backend developer from Nepal</h3>
+<h3 align="center">I'm passionate junior django developer from Nepal</h3>
 
 - 🔭 I’m currently working on [WeShare](https://github.com/sudipthon/weshare_backend)
 
